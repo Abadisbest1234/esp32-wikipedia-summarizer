@@ -28,11 +28,11 @@ This IoT project showcases how a Esp32 communicates with the internet thru its b
 
 Esp32 pin----------------screen pin
 
-gnd                        gnd
+gnd-------------------------gnd
 
-3.3v                       vcc
+3.3v--------------------------vcc
 
-3.3v                       BL
+3.3v---------------------------BL
 
 D18                        SCK/SCL
 
